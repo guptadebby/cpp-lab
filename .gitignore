@@ -7,3 +7,9 @@
 
 # Debug files
 *.pdb
+
+# VS Code workspace settings
+.vscode/
+
+# Generated farm data
+crop_data.txt
